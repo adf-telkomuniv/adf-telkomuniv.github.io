@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anditya Arifianto / Site Title"
+title                    : "Anditya Arifianto"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
