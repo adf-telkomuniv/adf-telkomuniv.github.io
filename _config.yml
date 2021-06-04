@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anditya Arifianto"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Anditya Arifianto"
 description              : &description "personal description"
 url                      : https://adf-telkomuniv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Anditya Arifianto"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Lecturer, Deep Learning Researcher, Ph.D. candidate at Nagoya University "
+  location         : "Nagoya, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.co.id/citations?user=zDTr0csAAAAJ&hl=en"
+  email            : "anditya_at_telkomuniversity_dot_ac_dot_id"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "adf-telkomuniv"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@undeedz"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/andityaarifianto/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Undeedz"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCXm8kCPCryqg3ey2U36eVcQ"
   wikipedia        :
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Japan # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
