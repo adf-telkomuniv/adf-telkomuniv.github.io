@@ -1,2 +1,7 @@
 _site/
 
+.ipynb_checkpoints
+.tmp.drivedownload
+
+*/.ipynb_checkpoints/*
+*/.tmp.drivedownload/*
