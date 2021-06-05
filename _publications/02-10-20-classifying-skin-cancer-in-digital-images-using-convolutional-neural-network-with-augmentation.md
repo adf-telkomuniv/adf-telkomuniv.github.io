@@ -2,7 +2,7 @@
 title: "Classifying Skin Cancer in Digital Images Using Convolutional Neural Network with Augmentation"
 collection: publications
 permalink: /publication/02-10-20-classifying-skin-cancer-in-digital-images-using-convolutional-neural-network-with-augmentation
-excerpt: 'Skin cancer is a hazardous disease that can induces death if it is not taken care of immediately. The disease is hard to identified since the symptoms have similarities with other disease. An automatically classification system of skin cancer has been developed, but it still produced low accuracy. We use Convolutional Neural Network  to enhance the accuracy of the classification. There are 2 main scenarios conducted in this research using HAM10000 dataset which has 7 classes. We compared ResNet and VGGNet architectures and obtained ResNet50 with augmentation as the best model with the accuracy of 99% and 99% macro avg.'
+excerpt: 'Skin cancer is a hazardous dis ...'
 date: 02-10-20
 venue: 'Indonesia Journal on Computing (Indo-JC), Vol. 5, No. 2'
 paperurl: 'https://socj.telkomuniversity.ac.id/ojs/index.php/indojc/article/view/455'
