@@ -1,18 +1,10 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Anditya Arifianto"
+  uri         : "https://adf-telkomuniv.github.io"
+  email       : "anditya_at_telkomuniversity_dot_ac_dot_id"
+  bio         : "Lecturer, Deep Learning Researcher, Ph.D. candidate at Nagoya University"
+  avatar      : "https://adf-telkomuniv.github.io/images/profile.png"
+  twitter     : "Undeedz"
+  google_plus : ""
