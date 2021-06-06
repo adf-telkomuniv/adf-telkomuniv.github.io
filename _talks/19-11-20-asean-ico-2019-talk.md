@@ -2,9 +2,9 @@
 title: "Asean IVO Forum 2019"
 collection: talks
 type: "Talk"
-permalink: /talks/20-11-19-asean-ico-2019-talk
+permalink: /talks/19-11-20-asean-ico-2019-talk
 venue: "Crimson Hotel Filinvest City, Manila"
-date: 20-11-19
+date: 19-11-20
 location: "Manila, The Philippines"
 ---
 

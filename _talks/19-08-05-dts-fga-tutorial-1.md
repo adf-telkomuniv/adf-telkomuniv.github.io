@@ -1,13 +1,13 @@
 ---
-title: "DTS/FGA Kominfo October 2019"
+title: "DTS/FGA Kominfo August 2019"
 collection: talks
 type: "Tutorial"
-permalink: /talks/21-10-19-dts-fga-tutorial-2
+permalink: /talks/19-08-05-dts-fga-tutorial-1
 venue: "Telkom University, Bandung"
-date: 21-10-19
+date: 19-08-05
 location: "Bandung, Indonesia"
 ---
 
 [More information here](https://sites.google.com/telkomuniversity.ac.id/fga-machine-learning)
 
-Digital Talent Scholarship Tutorial, FGA Machine Learning, October 2019
+Digital Talent Scholarship Tutorial, FGA Machine Learning, August 2019

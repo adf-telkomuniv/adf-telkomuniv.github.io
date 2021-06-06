@@ -2,9 +2,9 @@
 title: "MLSS-Indonesia 2020 Machine Learning Tutorial 5"
 collection: talks
 type: "Tutorial"
-permalink: /talks/04-08-20-mlss-indo-2020-tutorial-5
+permalink: /talks/20-08-04-mlss-indo-2020-tutorial-5
 venue: "Telkom University, Bandung"
-date: 04-08-20
+date: 20-08-04
 location: "Bandung, Indonesia"
 ---
 

@@ -2,9 +2,9 @@
 title: "INACL 2019 Workshop"
 collection: talks
 type: "Talk"
-permalink: /talks/18-07-19-inacl-2019-workshop-talk
+permalink: /talks/19-07-18-inacl-2019-workshop-talk
 venue: "Universitas Trisakti, Faculty of Industrial Technology"
-date: 18-07-19
+date: 19-07-18
 location: "Jakarta Indonesia"
 ---
 

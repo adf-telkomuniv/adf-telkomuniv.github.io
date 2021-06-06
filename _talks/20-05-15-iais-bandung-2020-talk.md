@@ -2,9 +2,9 @@
 title: "IAIS Bandung Talk 2020"
 collection: talks
 type: "Talk"
-permalink: /talks/15-05-20-iais-bandung-2020-talk
+permalink: /talks/20-05-15-iais-bandung-2020-talk
 venue: "Bandung (online)"
-date: 15-05-20
+date: 20-05-15
 location: "Bandung, Indonesia"
 ---
 
