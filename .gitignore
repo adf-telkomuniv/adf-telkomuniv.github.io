@@ -4,6 +4,7 @@ _site/
 .tmp.drivedownload
 markdown_generator
 markdown_generator/
+markdown_generator/*
 
 */.ipynb_checkpoints/*
 */.tmp.drivedownload/*
