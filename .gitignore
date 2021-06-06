@@ -2,6 +2,9 @@ _site/
 
 .ipynb_checkpoints
 .tmp.drivedownload
+markdown_generator
 
 */.ipynb_checkpoints/*
 */.tmp.drivedownload/*
+
+*/markdown_generator/*
