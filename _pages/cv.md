@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download complete CV 2019 [here](https://drive.google.com/file/d/1G6UYbML2zOfVM6bBh00T8ZIsYB62IUpM/view?usp=sharing) 
+
 Education
 ======
 * B.Tech. in Computer Science, Institut Teknologi Telkom, 2011
