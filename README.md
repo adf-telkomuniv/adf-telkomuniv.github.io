@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andityaarifianto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andityaarifianto/)](https://www.linkedin.com/in/andityaarifianto/)
 [![Twitter Badge](https://img.shields.io/badge/-@Undeedz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Undeedz)](https://twitter.com/Undeedz)
 [![Instagram Badge](https://img.shields.io/badge/-undeedz-E34A86?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/undeedz/)](https://instagram.com/undeedz)
-[![Youtube Badge](https://img.shields.io/badge/-anditya-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCXm8kCPCryqg3ey2U36eVcQ/)](https://www.youtube.com/channel/UCXm8kCPCryqg3ey2U36eVcQ/)
+[![Youtube Badge](https://img.shields.io/badge/-anditya-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/c/AndityaArifianto)](https://www.youtube.com/c/AndityaArifianto )
 [![Medium Badge](https://img.shields.io/badge/-@undeed-black?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@undeed/)](https://medium.com/@undeed)
 [![Blog Badge](https://img.shields.io/badge/-anditya-gray?style=flat&labelColor=000000&logo=wordpress&link=https://anditya.staff.telkomuniversity.ac.id/)](https://anditya.staff.telkomuniversity.ac.id/)
 
